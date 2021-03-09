@@ -1,0 +1,22 @@
+{
+  "name": "function",
+  "version": "1.0.0",
+  "description": "function",
+  "main": "none",
+  "scripts": {
+    "test": "none"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/therealtoresto/Function.git"
+  },
+  "keywords": [
+    "function"
+  ],
+  "author": "therealtoresto",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/therealtoresto/Function/issues"
+  },
+  "homepage": "https://github.com/therealtoresto/Function#readme"
+}
