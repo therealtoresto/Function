@@ -1,6 +1,6 @@
-`use strict`;
+'use strict';
 
-function inc(a) {  //func declaration 
+function inc(a) {  //func declaration
     return a + 1;
 }
 
@@ -12,7 +12,7 @@ const max = (a, b) => (a > b ? a : b); //lambda expr
 
 const avg = (a, b) => {
     const s = sum(a, b);
-    return s / 2; 
+    return s / 2;
 };
 
 console.log('inc(5) = ' + inc(5));
