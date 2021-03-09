@@ -18,5 +18,10 @@
   "bugs": {
     "url": "https://github.com/therealtoresto/Function/issues"
   },
-  "homepage": "https://github.com/therealtoresto/Function#readme"
+  "homepage": "https://github.com/therealtoresto/Function#readme",
+  "devDependencies": {
+    "eslint": "^7.21.0",
+    "eslint-config-standard": "^16.0.2",
+    "eslint-plugin-standard": "^5.0.0"
+  }
 }
